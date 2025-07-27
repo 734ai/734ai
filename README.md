@@ -5,21 +5,21 @@
 **Cybersecurity & AI Researcher | Adversarial ML Specialist | Autonomous Systems Engineer**  
 📍 Nairobi, Kenya  
 📧 sanosensei36@gmail.com | research.unit734@proton.me  
-🔗 GitHub: [734ai](https://github.com/734ai) | RU-734 | ai-research00  
+🔗 GitHub: [734ai](https://github.com/734ai) | [RU-734](https://github.com/RU-734) | [ai-research00](https://github.com/ai-research00)  
 📝 Blog: [NorthernTribe Insider](https://shorturl.at/8RHHa)
 
 ---
 
 ## Professional Summary
 
-Experienced and independently-driven researcher with 10+ years in offensive cybersecurity, adversarial AI, and autonomous defense engineering. Recognized contributor to top-tier vulnerability programs including Google VRP, Microsoft MSRC, and elite private bounty platforms.
+Self-directed and battle-tested researcher with deep specialization in offensive cybersecurity, adversarial AI, and autonomous defense systems. Proven contributor to elite vulnerability programs including Google VRP, Microsoft MSRC, and select private bounty initiatives.
 
-🔹 Nation-state adversary simulation  
-🔹 LLM red teaming and prompt injection testing  
-🔹 Hardened infrastructure and autonomous defense systems  
-🔹 AI deception and model-level manipulation research
+🔹 Nation-state adversary emulation and red team operations  
+🔹 LLM red teaming, prompt injection, and AI system subversion  
+🔹 Design of resilient, hardened infrastructures and autonomous interception platforms  
+🔹 Advanced research in AI deception, model exploitation, and multi-agent coordination
 
-Rooted in scientific rigor and operational execution, I blend red team logic, AI research, and real-time autonomy for multi-domain impact.
+Driven by scientific precision and operational realism, I fuse red team tactics, AI engineering, and autonomous systems research to create impact across cyber, kinetic, and cognitive threat domains.
 
 ---
 
