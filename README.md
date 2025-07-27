@@ -1,4 +1,4 @@
-![Autonomous Intelligence Blueprint](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWk0OHN0a2YyZHF5bWpncTdsajE2cHozMHc1MXFmeGs5ZXJvN201dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)
+![Autonomous Intelligence Blueprint](https://i.pinimg.com/originals/7a/59/bd/7a59bdbb9fda77e065ab3926ee455c55.gif)
 
 # Muzan Sano
 
