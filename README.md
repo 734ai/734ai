@@ -23,9 +23,9 @@ Rooted in scientific rigor and operational execution, I blend red team logic, AI
 
 ---
 
-## 🔬 Technical Domains
+## Technical Domains
 
-### 🛡️ Cybersecurity & Red Teaming
+### Cybersecurity & Red Teaming
 - Adversary simulation, exploit chaining (XSS, SSRF, IDOR, RCE)  
 - In-memory payloads, LOLBins, post-exploitation chaining  
 - Reverse engineering: PlugX, AsyncRAT, Sliver  
@@ -51,7 +51,7 @@ Rooted in scientific rigor and operational execution, I blend red team logic, AI
 - ROS2-based launcher logic with Unity simulation  
 - LoRa + vision-based battlefield comms
 
-### 🧠 Adversarial Autonomy Initiative – *Specialist (2023–Present)*
+### Adversarial Autonomy Initiative – *Specialist (2023–Present)*
 > AI warfare subversion and swarm deception  
 - Electromagnetic resilience (IR/LoRa) + decentralized swarm logic  
 - Attacks on sensor fusion pipelines (Tesla/F-35 style)  
@@ -88,7 +88,7 @@ Rooted in scientific rigor and operational execution, I blend red team logic, AI
 
 ---
 
-## 🛡️ Vulnerability Research
+## Vulnerability Research
 
 - **Google VRP**: CVE-2015-8862 — AMP Mustache DOM XSS  
 - **Microsoft Copilot Bounty**: LLM prompt abuse, OS-integrated vectors  
@@ -96,13 +96,6 @@ Rooted in scientific rigor and operational execution, I blend red team logic, AI
 
 ---
 
-## 🚀 GitHub Stats
-
-![734ai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=734ai&show_icons=true&theme=algolia&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=734ai&layout=compact&theme=algolia&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=734ai&theme=algolia&hide_border=true)
-
----
 
 ## 🌐 Clearance & Mobility
 
