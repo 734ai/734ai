@@ -12,93 +12,114 @@
 
 ## Professional Summary
 
-Experienced and independently-driven researcher with 10+ years in offensive cybersecurity, adversarial AI, and autonomous defense engineering. Recognized contributor to top-tier vulnerability programs including Google VRP, Microsoft MSRC, and select private bug bounty platforms.
+Experienced and independently-driven researcher with 10+ years in offensive cybersecurity, adversarial AI, and autonomous defense engineering. Recognized contributor to top-tier vulnerability programs including Google VRP, Microsoft MSRC, and elite private bounty platforms.
 
-Track record includes:
-- Nation-state adversary simulation
-- LLM red teaming and prompt injection testing
-- C2 infrastructure engineering in air-gapped/hardened environments
-- Real-time autonomous drone defense logic
+🔹 Nation-state adversary simulation  
+🔹 LLM red teaming and prompt injection testing  
+🔹 Hardened infrastructure and autonomous defense systems  
+🔹 AI deception and model-level manipulation research
 
-Rooted in applied science and classical logic, I blend low-level system knowledge, red team precision, and AI systems design into cohesive threat-informed research.
+Rooted in scientific rigor and operational execution, I blend red team logic, AI research, and real-time autonomy for multi-domain impact.
 
 ---
 
 ## 🔬 Technical Domains
 
-### 🛡️ Cybersecurity / Red Teaming
-- Adversary simulation, vulnerability chaining (XSS, SSRF, IDOR, RCE)
-- OPSEC-driven payloads, LOLBins, in-memory post-exploitation
-- Reverse engineering: PlugX, Sliver, AsyncRAT  
-- Tools: Metasploit, Cobalt Strike, Empire, BloodHound, Burp Suite, Mimikatz
+### 🛡️ Cybersecurity & Red Teaming
+- Adversary simulation, exploit chaining (XSS, SSRF, IDOR, RCE)  
+- In-memory payloads, LOLBins, post-exploitation chaining  
+- Reverse engineering: PlugX, AsyncRAT, Sliver  
+- Toolkits: Metasploit, Cobalt Strike, BloodHound, Empire, Mimikatz
 
-### Adversarial AI & ML Research
-- Prompt injection, LLM deception, transformer exploits  
-- AI-assisted recon tooling & behavioral simulation  
-- RedOps agents: stealthy, air-gapped AI adversaries
+### 🤖 Adversarial ML & AI RedOps
+- LLM prompt injection, jailbreaks, hallucination chaining  
+- Transformer-based agent deception and model fuzzing  
+- Recon automation and behavioral mimicry
 
 ### 🛰️ Autonomous Systems
-- ROS2, PX4, Gazebo, Unity3D  
-- YOLOv8-based drone threat interceptors  
-- SLAM + LoRa coordination in contested signal environments
+- Multi-agent swarms (ROS2, PX4, Gazebo, Unity3D)  
+- YOLOv8 drone intercept systems & SLAM in contested airspace  
+- LoRa/IR-based fallback comms, Kalman/LSTM trajectory prediction
 
 ---
 
 ## 🧪 Research Projects
 
-### **SlingAI Defense Labs** – Founder (2025–)
-> Modular AI-guided counter-UAS defense systems  
-- YOLOv8-guided launchers with ROS2/Unity-based intercept logic  
-- LoRa-based decentralized coordination  
-- Gimbal-mounted CIWS prototypes using Kalman/LSTM filtering
+### 🔧 SlingAI Defense Labs – *Founder (2025–Present)*
+> Modular AI-guided counter-UAS systems  
+- YOLOv8 targeting system + CIWS-style interception  
+- ROS2-based launcher logic with Unity simulation  
+- LoRa + vision-based battlefield comms
 
-### **Adversarial Autonomy & AI Warfare (2023–)**
-> Subversion of battlefield AI + electromagnetic resilience  
-- EW-resistant communication with IR, LoRa, and Kalman filters  
-- Sensor fusion attacks inspired by Tesla/F-35  
-- Decentralized drone logic using stigmergy & RL
+### 🧠 Adversarial Autonomy Initiative – *Specialist (2023–Present)*
+> AI warfare subversion and swarm deception  
+- Electromagnetic resilience (IR/LoRa) + decentralized swarm logic  
+- Attacks on sensor fusion pipelines (Tesla/F-35 style)  
+- Reinforcement Learning + stigmergy for agent behavior
 
 ---
 
 ## 🛠️ Tools & Stacks
 
 - **Languages**: Python, Go, Bash, C++, PowerShell  
-- **AI/ML**: PyTorch, TensorFlow, OpenCV, PPO, SAC  
-- **Cyber**: Cobalt Strike, Empire, BloodHound, Burp Suite  
-- **Infra**: Docker, Kubernetes, FastAPI, Git, ELK, Splunk
+- **AI/ML**: PyTorch, TensorFlow, PPO, SAC, OpenCV  
+- **Infra**: Docker, Kubernetes, FastAPI, Git, ELK, Splunk  
+- **Cyber Tools**: Burp Suite, Cobalt Strike, Empire, BloodHound, Mimikatz
 
 ---
 
-## 📂 Projects = check my repos
+## 📂 Repositories to Explore
 
-- **SkySentinel IRN** – Real-time airspace monitoring over Iranian FIR  
-- **Xploitra** – AI-driven exploit classifier & security scorer  
-- **MissileWatch (Android)** – Crowd-based acoustic missile detection  
-- **APTWatch** – Nation-state threat map + TTP heatmap  
-- **NTMap / SpyHunt** – Stealth recon framework w/ Shodan, Censys & dorks
+🔍 *Check out my repos for live research & operational tools:*
+
+- **SkySentinel IRN** – FIR telemetry & real-time airspace alerting  
+- **Xploitra** – AI-powered vulnerability classifier  
+- **MissileWatch (Android)** – Missile detection via acoustic analysis  
+- **APTWatch** – Nation-state threat actor map + TTP visualizations  
+- **NTMap / SpyHunt** – API-free recon & breach-hunting automation
 
 ---
 
 ## 📚 Education
 
-- **B.Sc. (Self-Taught)** in AI, Cybersecurity, Autonomous Systems  
-- Kenyatta University (incomplete) – Environmental Sciences 
-- Independent: Stanford NLP (Coursera), HTB, TryHackMe
+- **B.Sc. (Self-Taught)** – Focus: AI, Cybersecurity, Autonomy  
+- Kenyatta University (incomplete) – Environmental Sciences  
+- Courses: Stanford NLP (Coursera), Hack The Box, TryHackMe
 
 ---
 
-## 🔐 Vulnerability Programs
+## 🛡️ Vulnerability Research
 
-- **Google VRP**: CVE-2015-8862 — AMP4Email DOM XSS (Gmail engine)  
-- **Microsoft Copilot AI Bounty**: LLM prompt abuse & OS flow vulnerabilities  
-- **HackerOne & Intigriti**: Privilege escalation, token leakage, fuzzing pipelines
+- **Google VRP**: CVE-2015-8862 — AMP Mustache DOM XSS  
+- **Microsoft Copilot Bounty**: LLM prompt abuse, OS-integrated vectors  
+- **HackerOne & Intigriti**: SSRF, privilege escalation, token misconfigs
+
+---
+
+## 🚀 GitHub Stats
+
+![734ai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=734ai&show_icons=true&theme=algolia&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=734ai&layout=compact&theme=algolia&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=734ai&theme=algolia&hide_border=true)
 
 ---
 
-## 📡 Clearance & Mobility
+## 🌐 Clearance & Mobility
 
-- Eligible for U.S. DoD Secret Clearance (sponsorship required)  
-- Open to relocation: U.S. (Huntsville, CO Springs), Canada, Singapore, Saudi Arabia  
-- Travel ready: Domestic & international (up to 10%)
+- Eligible for **U.S. DoD Secret Clearance** (requires sponsorship)  
+- Open to relocation: 🇺🇸 🇨🇦 🇸🇬 🇸🇦  
+- Travel: International & field-ready (≤10% travel)
 
 ---
+
+## 📝 Publications
+
+**NorthernTribe Insider**  
+> In-depth insights into:
+- LLM deception in hostile environments  
+- Drone-based cyberwarfare and autonomy  
+- Real-world adversary emulation & stealth tooling
+
+---
+
+
