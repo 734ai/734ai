@@ -7,6 +7,7 @@
 📧 sanosensei36@gmail.com | research.unit734@proton.me  
 🔗 GitHub: [734ai](https://github.com/734ai) | [RU-734](https://github.com/RU-734) | [ai-research00](https://github.com/ai-research00)  
 🔗 Kaggle: [muzansano](https://kaggle.com/muzansano)
+
 📝 Blog: [NorthernTribe Insider](https://shorturl.at/8RHHa)
 
 ---
