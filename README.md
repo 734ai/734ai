@@ -7,8 +7,8 @@
 📧 sanosensei36@gmail.com | research.unit734@proton.me  
 
 🔗 GitHub: [734ai](https://github.com/734ai) | [RU-734](https://github.com/RU-734) | [ai-research00](https://github.com/ai-research00)  
-🔗 Hugging Face: [unit731](https://huggingface.co/unit731)  
 🔗 Kaggle: [muzansano](https://kaggle.com/muzansano)  
+🔗 Hugging Face: [unit731](https://huggingface.co/unit731)  
 📝 Blog: [NorthernTribe Insider](https://shorturl.at/8RHHa)
 
 ---
@@ -17,57 +17,55 @@
 
 Self-directed researcher specializing in offensive cybersecurity, adversarial artificial intelligence, and autonomous defense systems. Contributor to coordinated vulnerability programs, including **Google VRP**, **Microsoft MSRC**, and select private bounty initiatives.
 
-My work spans:
+🔹 Model development, training, and benchmarking  
+🔹 Adversarial AI research and prompt injection testing  
+🔹 Red team operations and nation-state threat emulation  
+🔹 Autonomous system design and multi-agent coordination  
+🔹 Applied cybersecurity research integrating AI and operational realism  
 
-- Model development, training, and benchmarking  
-- Adversarial AI research and prompt injection testing  
-- Red team operations and nation-state threat emulation  
-- Autonomous system design and multi-agent coordination  
-- Applied cybersecurity research integrating AI and operational realism  
-
-I focus on real-world threat conditions, designing and stress-testing intelligent systems for resilience, safety, and operational effectiveness.
+Focuses on real-world threat conditions, designing and stress-testing intelligent systems for resilience, safety, and operational effectiveness.
 
 ---
 
 ## Key Accomplishments
 
-- Developed and deployed multiple AI models for phishing, social engineering, and adversarial detection  
-- Built and benchmarked multi-model inference pipelines for robust evaluation  
-- Designed prompt injection and LLM exploitation testbeds  
-- Conducted advanced research in AI deception, model subversion, and alignment stress testing  
-- Contributed vulnerability findings to elite disclosure programs and private security initiatives  
-- Engineered autonomous reconnaissance and threat analysis frameworks  
-- Published applied research and threat intelligence on **NorthernTribe Insider**
+🔹 Developed and deployed multiple AI models for phishing, social engineering, and adversarial detection  
+🔹 Built and benchmarked multi-model inference pipelines for robust evaluation  
+🔹 Designed prompt injection and LLM exploitation testbeds  
+🔹 Conducted advanced research in AI deception, model subversion, and alignment stress testing  
+🔹 Contributed vulnerability findings to elite disclosure programs and private security initiatives  
+🔹 Engineered autonomous reconnaissance and threat analysis frameworks  
+🔹 Published applied research and threat intelligence on **NorthernTribe Insider**
 
 ---
 
 ## Research & Engineering Focus
 
-**Artificial Intelligence**
-- Custom model creation and fine-tuning  
-- Adversarial robustness evaluation  
-- Multi-modal detection pipelines  
-- Behavioral and stylometry analysis  
+**Artificial Intelligence**  
+🔹 Custom model creation and fine-tuning  
+🔹 Adversarial robustness evaluation  
+🔹 Multi-modal detection pipelines  
+🔹 Behavioral and stylometry analysis  
 
-**Benchmarking & Evaluation**
-- Comparative model benchmarking  
-- Performance evaluation across datasets  
-- Safety and failure-mode analysis  
+**Benchmarking & Evaluation**  
+🔹 Comparative model benchmarking  
+🔹 Performance evaluation across datasets  
+🔹 Safety and failure-mode analysis  
 
-**Cybersecurity Applications**
-- Offensive security simulation and red team operations  
-- Threat emulation and detection pipelines  
-- Autonomous system integration for defense scenarios  
+**Cybersecurity Applications**  
+🔹 Offensive security simulation and red team operations  
+🔹 Threat emulation and detection pipelines  
+🔹 Autonomous system integration for defense scenarios  
 
 ---
 
 ## Active Projects
 
-- AI Phishing & Social Engineering Detection Platforms  
-- Prompt Injection Evaluation Frameworks  
-- Multi-Model Benchmarking Testbeds  
-- Autonomous Threat Analysis Pipelines  
-- Adversarial LLM Evaluation Systems  
+🔹 AI Phishing & Social Engineering Detection Platforms  
+🔹 Prompt Injection Evaluation Frameworks  
+🔹 Multi-Model Benchmarking Testbeds  
+🔹 Autonomous Threat Analysis Pipelines  
+🔹 Adversarial LLM Evaluation Systems  
 
 ---
 
@@ -75,10 +73,10 @@ I focus on real-world threat conditions, designing and stress-testing intelligen
 
 Research and technical analysis are published through **NorthernTribe Insider**, covering:
 
-- Nation-state cyber operations  
-- AI weaponization and adversarial use cases  
-- Exploit research and security engineering  
-- Red team and autonomous systems research  
+🔹 Nation-state cyber operations  
+🔹 AI weaponization and adversarial use cases  
+🔹 Exploit research and security engineering  
+🔹 Red team and autonomous systems research  
 
 ---
 
