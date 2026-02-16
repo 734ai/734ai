@@ -61,16 +61,6 @@ Focuses on real-world threat conditions, designing and stress-testing intelligen
 
 ---
 
-## Active Projects
-
-🔹 AI Phishing & Social Engineering Detection Platforms  
-🔹 Prompt Injection Evaluation Frameworks  
-🔹 Multi-Model Benchmarking Testbeds  
-🔹 Autonomous Threat Analysis Pipelines  
-🔹 Adversarial LLM Evaluation Systems  
-
----
-
 ## Publications
 
 Research and technical analysis are published through **NorthernTribe Insider**, covering:
