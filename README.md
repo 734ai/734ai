@@ -88,8 +88,12 @@ Research and technical analysis are published through **NorthernTribe Insider**,
 If you would like to support ongoing model development and cybersecurity research:
 
 <div class="button-container">
-  🔹 <a href="https://www.buymeacoffee.com/muzan.sano" target="_blank">Buy Me a Coffee</a>  
-  🔹 <a href="https://www.paypal.com/donate/?hosted_button_id=8VM2Y5U33UC8U" target="_blank">PayPal Donate</a>
+  <a href="https://www.buymeacoffee.com/muzan.sano" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+  </a>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=8VM2Y5U33UC8U" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
 </div>
 
 ---
